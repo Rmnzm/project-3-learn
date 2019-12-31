@@ -1,0 +1,19 @@
+/* colors:
+#8506A9 - фиол
+#FF8300	- оранж
+#06799F	- голуб
+#E5FB00	- желт
+*/
+body {
+  background: #8506A9;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #FF8300;
+}
+
+.separator1 {
+  width: 100%;
+  background: #06799F;
+  height: 20px;
+}
